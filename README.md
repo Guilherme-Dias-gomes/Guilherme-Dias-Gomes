@@ -23,15 +23,20 @@
  </div>
  
  ### Main skills:
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-
+<div align="center" >
+  <a href="https://skillicons.dev"   >
+  <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,css,html,react,next,tailwind,sass,nodejs,java,spring,eclipse,idea,maven,docker,azure,figma,github,jest,materialui,linux,postman,styledcomponents,vercel,vite,bootstrap,mongodb,,postgres,discord,linkedin,instagram" />
+  </a>
+  <br />
+</div>
 
 ### Studying in this moment:
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Typescript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+<div align="center" >
+  <a href="https://skillicons.dev"   >
+  <img src="https://skillicons.dev/icons?i=cs,visualstudio,dotnet,rabbitmq" />
+  </a>
+  <br />
+</div>
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
