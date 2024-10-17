@@ -25,7 +25,7 @@
  ### Main skills:
 <div align="center" >
   <a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,css,html,react,next,tailwind,sass,nodejs,java,spring,eclipse,idea,maven,docker,azure,figma,github,linux,postman,styledcomponents,vercel,vite,bootstrap,mongodb,,postgres,discord,linkedin,instagram" />
+  <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,css,html,react,next,tailwind,sass,nodejs,java,spring,eclipse,idea,maven,docker,azure,figma,github,linux,postman,styledcomponents,vercel,vite,bootstrap,mongodb,postgres,discord,linkedin,instagram" />
   </a>
   <br />
 </div>
